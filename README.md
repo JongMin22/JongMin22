@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# # (●'◡'●) 종민의 개발 다이어리 
+
+#  (●'◡'●) 종민의 개발 다이어리 
   
 <!--
 **JongMin22/JongMin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
